@@ -1,0 +1,9 @@
+.navbar-story-children-div {
+  display: flex;
+  align-items: center;
+}
+
+.navbar__main-title {
+  font-size: 2rem;
+  margin: 0 2rem;
+}

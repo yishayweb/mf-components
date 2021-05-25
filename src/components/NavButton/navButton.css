@@ -1,0 +1,16 @@
+.navbutton__main {
+  padding: 0.7rem;
+  background-color: green;
+  color: white;
+  border: 2px solid rgba(204, 255, 204, 0.2);
+  border-radius: 0.2rem;
+  margin: 0 0.5rem;
+  cursor: pointer;
+}
+
+.navbutton__main:hover {
+  color: green;
+  background-color: rgba(204, 255, 204, 0.9);
+  border: 2px solid white;
+  border-radius: 0.2rem;
+}
