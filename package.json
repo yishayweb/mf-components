@@ -3,10 +3,12 @@
   "version": "1.0.1",
   "description": "",
   "main": "lib/index.js",
-  "module": "lib/index.esm.js",
-  "types": "lib/index.d.ts",
+  "module": "module/index.esm.js",
+  "types": "typings/index.d.ts",
   "files": [
-    "lib/**/*"
+    "lib/**/*",
+    "module/**/*",
+    "typings"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
