@@ -4,11 +4,10 @@
   "description": "",
   "main": "lib/index.js",
   "module": "module/index.esm.js",
-  "types": "typings/index.d.ts",
+  "types": "lib/index.d.ts",
   "files": [
     "lib/**/*",
-    "module/**/*",
-    "typings"
+    "module/**/*"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
