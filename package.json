@@ -1,6 +1,6 @@
 {
   "name": "@yishayweb/mf-components",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "lib/index.js",
   "module": "module/index.esm.js",
