@@ -46,7 +46,7 @@ const Button = ({
       style={backgroundColor ? { backgroundColor } : {}}
       onClick={onClick}
     >
-      {label}Hello you
+      {"Spunch it"}
     </button>
   );
 };
